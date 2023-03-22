@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ashik Ali Shanto
 - 👀 I’m interested in JAVA, JS, Flutter
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Reaact JS, Three JS
 - 📫 Wanna reach me check my website www.shantosworkshop.com
