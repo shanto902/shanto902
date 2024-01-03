@@ -34,7 +34,7 @@
 
 💬 **Let's Connect:**
    - [LinkedIn](#)
-   - [Portfolio Website](shantosworkshop.com)
+   - [Portfolio Website](https://shantosworkshop.com)
    - Email: ashikalishanto@gmail.com
    - Mobile: +8801725468800
 
