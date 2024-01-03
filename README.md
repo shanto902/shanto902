@@ -33,7 +33,7 @@
    - Certified Web Developer by Programming Hero
 
 💬 **Let's Connect:**
-   - [LinkedIn](#)
+   - [LinkedIn](https://www.linkedin.com/in/shanto902)
    - [Portfolio Website](https://shantosworkshop.com)
    - Email: ashikalishanto@gmail.com
    - Mobile: +8801725468800
