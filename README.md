@@ -3,8 +3,8 @@
 🚀 Welcome to my GitHub! I'm Ashik Ali Shanto, a passionate and detail-oriented Junior Web Developer based in Dhaka, Bangladesh. My journey in the vast realm of web development has equipped me with a strong foundation in HTML, CSS, and JavaScript, along with proficiency in cutting-edge frameworks like React JS and Next JS.
 
 🛠️ **Technical Toolbox:**
-   - **Expertise:** JavaScript, TypeScript, ReactJS, NextJS, HTML, CSS
-   - **Comfortable:** Express, MongoDB, Java, WordPress, Android Studio
+   - **Expertise:** JavaScript, TypeScript, ReactJS, NextJS, HTML, CSS, Tailwind CSS
+   - **Comfortable:** Express, Mongoose, MongoDB, Java, WordPress, Android Studio
    - **Familiar:** NodeJS
 
    **Tools of the Trade:**
