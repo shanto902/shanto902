@@ -4,13 +4,13 @@
 
 Hi, I'm **Ashik Ali Shanto**, a Software Engineer based in **Dhaka, Bangladesh**.
 
-I specialize in building **modern, scalable frontend and full-stack web applications** using **React** and **Next.js**. I enjoy turning complex ideas into clean, performant, and user-friendly interfaces.
+I build **modern, scalable frontend and full-stack web applications** using **React** and **Next.js**, with a strong focus on performance, clean UI, and maintainable architecture.
 
-I have hands-on experience with **API integration, CMS-driven systems, state management**, and **eCommerce platforms**. Recently, I’ve been exploring **mobile app development with React Native (Expo)** and working on **AI-powered voice lead generation systems** using **WebRTC / Twilio**.
+I have experience working with **API-driven systems, CMS platforms, state management**, and **eCommerce solutions**. Recently, I’ve been exploring **mobile app development with React Native (Expo)** and building **AI-powered voice lead generation systems** using **WebRTC / Twilio**.
 
-My goal is to ship **high-quality, maintainable products** while continuously learning and improving.
+My goal is to ship **high-quality, production-ready products** while continuously learning and evolving as an engineer.
 
-🚀 Let’s build something impactful together.
+🚀 Let’s build something impactful.
 
 ---
 
@@ -71,10 +71,61 @@ My goal is to ship **high-quality, maintainable products** while continuously le
 
 ---
 
+## 🌟 Featured Projects
+
+### 🔹 AI Voice Lead Generation System
+**Tech:** Next.js, Node.js, WebRTC, Twilio, OpenAI  
+- AI-powered outbound calling system
+- Collects and stores lead information automatically
+- Real-time voice interaction and conversation flow
+
+---
+
+### 🔹 Mobile Library Management Application
+**Tech:** Next.js, Express, MongoDB, React Native (Expo), GPS  
+- Manages physical book lending via mobile vans
+- GPS-based nearby library detection
+- Admin, librarian, and member roles
+
+---
+
+### 🔹 eCommerce & CMS Driven Websites
+**Tech:** Next.js, Directus CMS, Shopify Liquid, Tailwind CSS  
+- Dynamic product catalogs
+- Custom CMS blocks and page builders
+- SEO-optimized and performance-focused frontend
+
+---
+
+### 🔹 Solar System Builder Tool
+**Tech:** React, Redux, Next.js  
+- Interactive solar load calculator
+- Product suggestions based on watt usage
+- Add-to-cart and cost breakdown system
+
+---
+
+## 📈 Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shanto902&theme=react-dark&area=true&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
+
+---
+
 ## 🤝 Let’s Connect
 <div>
-  <a href="https://www.linkedin.com/in/shanto902/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shanto902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.facebook.com/shanto902"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://wa.me/+8801725468800"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shanto902/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shanto902">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/shanto902">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/+8801725468800">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </div>
